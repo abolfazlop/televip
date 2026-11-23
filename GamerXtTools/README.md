@@ -1,3 +1,3 @@
 # GamerXt Tools — @U_GamerXt
-LSPosed / LibXposed API 102 module targeting Telegram.
-Telegram internal hooks are version-dependent; verify each feature on the target Telegram release. Deleted-message retention is best-effort.
+LibXposed API 101 compatible with API 102 frameworks; Android 16 / SDK 36.
+Telegram internals vary by release; verify hooks on the exact Telegram build. Deleted-message retention is best-effort.

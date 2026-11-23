@@ -6,6 +6,7 @@ import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.List;
 import io.github.libxposed.api.XposedModule;
+import io.github.libxposed.api.XposedInterface;
 
 public class GamerXtModule extends XposedModule {
  private static final String TAG="GamerXt";
